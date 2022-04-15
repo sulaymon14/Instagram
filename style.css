@@ -1,0 +1,157 @@
+body {
+    margin: 0;
+    background-color: #fafafa;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+.instagram {
+    background-color: #fafafa;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.form {
+    background-color: white;
+    width: 350px;
+    margin-top: 56px;
+    border: 1px solid rgb(212, 208, 208);
+}
+
+.logo {
+    margin-top: 22px;
+    margin-bottom: 12px;
+    background-image: url("image/32f0a4f27407.png");
+    width: 175px;
+    height: 51px;
+    background-position: 0 -130px;
+}
+
+input {
+    padding: 10px 20px;
+    border: 1px solid rgb(212, 208, 208);
+}
+
+.form h2 {
+    color: #8e8e8e;
+    font-weight: 600;
+    font-size: 17px;
+    margin: 10px 40px;
+    margin-top: 0;
+}
+.button{
+    background-color: #0095f6;
+    border: 0;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 30px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.button img {
+    margin-right: 8px;
+}
+
+.border{
+    height: 1px;
+    width: 150px;
+    background-color: rgb(212, 208, 208);
+}
+
+.div {
+    margin: 15px 85px;
+    display: flex;
+    align-items: center;
+    color: rgb(161, 161, 161);
+}
+
+.div span {
+    margin: 0 18px;
+}
+
+.input{
+    color: rgb(161, 161, 161);
+    margin: 14px ;
+    
+}
+
+.margin {
+    margin: 6px 0px;
+    border-radius: 100px ;
+    border-radius: 5px;
+}
+
+.margin input {
+    width: 200px;
+}
+
+.rec {
+    width: 241px;
+}
+.ppp {
+    margin: 10px 70px;
+    color: rgb(129, 125, 125);
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+}
+.cogo {
+    
+    background-color: white;
+    width: 350px;
+    margin-top: 100px;
+    border: 1px solid rgb(212, 208, 208);
+    color: rgba(var(--i1d,38,38,38),1);
+    font-size: 14px;
+    margin: 15px ;
+    text-align: center;
+}
+
+.a {
+    margin: 15px 50px;
+}
+
+.a a {
+    text-decoration: none;
+}
+.q {
+    color: rgba(var(--i1d,38,38,38),1);
+    font-size: 14px;
+    line-height: 18px;
+    margin: 10px 20px 10px 20px;
+    text-align: center;
+}
+
+.rasm img {
+    height: 40px;
+    margin-top: 22px;
+    margin-bottom: 12px;
+    background-image:url(image/4c70948c09f3.png);
+    background-image: url(image/bfba6d0fd6bd.png);
+    border-radius: 5px;
+
+}
+
+.gaplar {
+    margin: 30px;
+    margin-bottom: 20px;
+}
+.gaplar span {
+    margin: 8px;
+    color: rgb(148, 144, 144);
+    cursor: pointer;
+    
+}
+
+.lang {
+    color: #8e8e8e !important;
+    
+}
+
+select {
+    border: 0;
+    color: #8e8e8e;
+    margin-left: 16px;
+} 
